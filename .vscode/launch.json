@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"name": "Build Scripts",
+			"type": "f5anything",
+			"request": "launch",
+			"command": "exit",
+			"preLaunchTask": "npm: build"
+		}
+	]
+}
